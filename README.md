@@ -1,96 +1,195 @@
-<h1 align="center">Hi there, I'm Aditya 👋</h1>
-<h3 align="center">Full-Stack Developer | ML/Data Enthusiast | Builder of Small Useful Things</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+full-stack+web+apps;Exploring+Machine+Learning+%26+Data+Analytics;Always+shipping+something+new" alt="Typing SVG" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Hey,%20I'm%20Aditya%20👋&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20Vairagyaaa%20—%20Full-Stack%20%7C%20Backend%20%7C%20Fintech%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
 
----
+<br/>
 
-### 🚀 About Me
+<a href="https://github.com/Adi96singh">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+%26+Backend+Developer;Building+Orbit+-+a+feed-first+social+platform;Fintech+%2B+Financial+Data+Systems+Enthusiast;FastAPI+%7C+Flask+%7C+Spring+Boot+%7C+React;Always+shipping+something+new+🚀&font=Fira%20Code&center=true&width=650&height=45&color=A855F7&vCenter=true&size=22&pause=1200"/>
+</a>
 
-- 🔭 I'm currently building practical, real-world web applications — task managers, inventory systems, expense trackers, and attendance tools
-- 🤖 I also work on ML/data projects — fraud detection, churn prediction, and fake review identification
-- 🌐 Several of my projects are live and deployed (check the links below!)
-- 🧠 Currently exploring LLM-powered agents and AI tooling
-- 🛠️ Comfortable across the stack: JavaScript/TypeScript, Java, and Python (for data work)
+<br/><br/>
 
----
+<a href="https://github.com/Adi96singh?tab=followers">
+  <img src="https://img.shields.io/github/followers/Adi96singh?label=Followers&style=for-the-badge&color=8E2DE2&logo=github&logoColor=white"/>
+</a>
+<a href="https://github.com/Adi96singh?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-23-4A00E0?style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+<a href="https://github.com/Adi96singh?tab=stars">
+  <img src="https://img.shields.io/github/stars/Adi96singh?label=Stars&style=for-the-badge&color=A855F7&logo=starship&logoColor=white"/>
+</a>
 
-### 🧰 Tech Stack
+</div>
 
-**Languages**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+<br/>
 
-**Backend & Tools**
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+## 🧭 About Me
 
-**Data / ML**
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+```yaml
+name:        Aditya
+handle:      Vairagyaaa
+role:        Computer Science Student @ Chandigarh University (Class of 2026)
+focus:       Full-Stack & Backend Development · Financial Data Systems
+currently:   Building "Orbit" — a feed-first social platform for builders & creators
+philosophy:  Ship things that feel polished, not generic. Portfolio > resume.
+fun_fact:    Once debugged a decimal-parsing bug in a C++ financial scraper
+             that came down to a single trailing punctuation mark 😅
+```
 
-**Deployment**
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+<br/>
 
----
+## 🛠️ Tech Arsenal
 
-### 📌 Featured Projects
+<div align="center">
 
-| Project | Description | Tech |
-|---|---|---|
-| [TeamTaskManager](https://github.com/Adi96singh/TeamTaskManager) | Real-time team task manager with assignment, deadlines & progress tracking | JavaScript · [Live](https://team-task-manager-seven-xi.vercel.app) |
-| [InventoryManagement](https://github.com/Adi96singh/InventoryManagement) | Inventory management system for tracking stock and operations | JavaScript |
-| [Expense-tracker](https://github.com/Adi96singh/Expense-tracker) | Web app to track and manage personal expenses | HTML/JS |
-| [Attendance-management](https://github.com/Adi96singh/Attendance-management) | Attendance tracking system | JavaScript |
-| [Customer_Churn_prediction](https://github.com/Adi96singh/Customer_Churn_prediction) | ML model predicting customer attrition to enable proactive retention | Python / Jupyter |
-| [FakeProductReviewDetector](https://github.com/Adi96singh/FakeProductReviewDetector) | Detects fake/spam product reviews using NLP techniques | Python / Jupyter |
-| [LLM-Powered-Browser-Agent](https://github.com/Adi96singh/LLM-Powered-Browser-Agent) | An AI agent that browses and interacts with the web using an LLM | — |
-| [Vairagyaaa](https://github.com/Adi96singh/Vairagyaaa) | My personal portfolio site | HTML · [Live](https://vairagyaaa.com) |
+**Languages & Runtimes**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,html,css&theme=dark" />
 
-<details>
-<summary>🎮 More projects (games & practice)</summary>
-<br>
+<br/><br/>
 
-- [Maze](https://github.com/Adi96singh/Maze) — [Live](https://maze-xi-one.vercel.app)
-- [2048-game](https://github.com/Adi96singh/2048-game) — [Live](https://2048-game-smoky-nu.vercel.app)
-- [Stone-Paper-Scissor](https://github.com/Adi96singh/Stone-Paper-Scissor) — [Live](https://stone-paper-scissor-ebon.vercel.app)
-- [Typing-speed-test](https://github.com/Adi96singh/Typing-speed-test) — [Live](https://typing-speed-test-mauve-eight.vercel.app)
-- [url-shortener](https://github.com/Adi96singh/url-shortener) (Java)
-- [Credit_card_fraud_detection](https://github.com/Adi96singh/Credit_card_fraud_detection)
-- [Employee_performance](https://github.com/Adi96singh/Employee_performance)
-- [Social-Media-analys](https://github.com/Adi96singh/Social-Media-analys)
-- [Food-Comapny-maket-analystics-project](https://github.com/Adi96singh/Food-Comapny-maket-analystics-project)
+**Backend & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,spring,nodejs,express&theme=dark" />
 
-</details>
+<br/><br/>
 
----
+**Frontend & Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,redux&theme=dark" />
 
-### 📊 GitHub Stats
+<br/><br/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adi96singh&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi96singh&layout=compact&hide_border=true" />
-</p>
+**Data, Infra & DevOps**
+<br/>
+<img src="https://skillicons.dev/icons?i=mongodb,sqlite,firebase,docker,git,github,render,vscode&theme=dark" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi96singh&hide_border=true" alt="streak stats" />
-</p>
+</div>
 
----
+<br/>
 
-### 📫 Connect with Me
+## 🚀 Featured Builds
 
-<p align="center">
-  <a href="https://vairagyaaa.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <!-- Add your LinkedIn / Twitter / Email below -->
-  <!-- <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-  <!-- <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> -->
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<p align="center"><i>⭐️ From <a href="https://github.com/Adi96singh">Adi96singh</a></i></p>
+### 🪐 Orbit
+**Feed-first social platform for students, developers & founders**
+
+A production-grade social network — not another LinkedIn clone. Built feature-domain-first with a full design system and auth from day one.
+
+`Vite` `React` `TypeScript` `Tailwind` `Firebase`
+
+> Status: Phase 4 — profile view/edit/avatar upload in progress
+
+</td>
+<td width="50%" valign="top">
+
+### 💰 SpendSmart
+**Full-stack expense tracker with real analytics**
+
+JWT-secured expense tracking with live Chart.js dashboards, CSV export, and budget alerts — built to actually be used, not just demoed.
+
+`React` `Flask` `MongoDB` `JWT` `Chart.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Financial Data Scraper
+**C++ engine for macro data ingestion**
+
+Pulls structured data from the NY Fed, ECB, BLS & Eurostat — handling PDF/HTML parsing, gzip decompression, redirect chains, and multi-path XML configs.
+
+`C++` `ScrapeFilter.h` `WebParser`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏦 CFI Global CRM
+**Role-based CRM for a financial services client**
+
+Admin / Employee / Client role separation, built end-to-end with integrated payments.
+
+`Flask` `MongoDB` `Razorpay`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎮 2048 — Vairagyaaa Edition
+**A portfolio-grade take on the classic game**
+
+Rebuilt from scratch with a dark/violet aesthetic — proof that even a "toy project" deserves real design attention.
+
+`JavaScript` `CSS` `Game Dev`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 LLM-Powered Browser Agent
+**An agent that browses the web for you**
+
+Exploring how LLMs can drive real browser automation and reasoning over live pages.
+
+`Python` `LLMs` `Automation`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<sub>Also shipped: <b>Attendance Management System</b> · <b>Fake Product Review Detector</b> (ML) · <b>Inventory Management System</b> · <b>Customer Churn Predictor</b> · <b>URL Shortener</b> (deployed on Render)</sub>
+</div>
+
+<br/>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Adi96singh&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=8E2DE2&text_color=c9d1d9"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adi96singh&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adi96singh&theme=radical&hide_border=true&background=0d1117&ring=8E2DE2&fire=A855F7&currStreakLabel=A855F7"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Adi96singh&theme=react-dark&bg_color=0d1117&color=A855F7&line=8E2DE2&point=ffffff&hide_border=true" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🎯 Currently
+
+```text
+🔭  Building Orbit end-to-end (auth ✅  design system ✅  profiles 🔄)
+🌱  Sharpening backend architecture & financial data systems knowledge
+💬  Ask me about FastAPI, Flask, Spring Boot, React or fintech data pipelines
+🎓  Wrapping up my CS degree at Chandigarh University (2026)
+```
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Adi96singh">
+  <img src="https://img.shields.io/badge/GitHub-Adi96singh-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<sub>💜 Portfolio brand: <b>Vairagyaaa</b> — thanks for stopping by. Star a repo if something here caught your eye!</sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" width="100%"/>
